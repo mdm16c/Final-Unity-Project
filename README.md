@@ -5,6 +5,7 @@ Simple game made in Unity where the player controls a ball named Roll-E who must
 [![js-standard-style](https://img.shields.io/badge/code%20style-standard-brightgreen.svg?style=flat)](https://github.com/feross/standard)
  
 ## Trailer
+Click the image below to open game trailer in YouTube
 [![Roll-E Trailer](https://img.youtube.com/vi/RccVCv9X42E/0.jpg)](https://www.youtube.com/watch?v=RccVCv9X42E)
 
 ## Technology/Framework Used

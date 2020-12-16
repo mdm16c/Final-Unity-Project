@@ -16,7 +16,7 @@ Click the image below to open the game trailer in YouTube.
 This is a simple physics based platformer game that relies on its core mechanic of a wind-up/charging system for the player to gain more speed. Because of this feature, the game becomes equally pointed towards speed and precision.
 
 ## Installation
-1. Download and intall Unity Hub 2.4.2 or greater
+1. [Download and intall Unity Hub 2.4.2 or greater](https://unity3d.com/get-unity/download)
 2. Download and install Unity 2019.4.8f1 through the Unity Hub Interface
 3. Download or clone this repository into an empty directory
 4. Click the **Add** Button in Unity Hub and locate the local folder containing this repository

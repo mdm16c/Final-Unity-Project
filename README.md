@@ -6,6 +6,7 @@ Simple game made in Unity where the player controls a ball named Roll-E who must
  
 ## Trailer
 Click the image below to open game trailer in YouTube
+
 [![Roll-E Trailer](https://img.youtube.com/vi/RccVCv9X42E/0.jpg)](https://www.youtube.com/watch?v=RccVCv9X42E)
 
 ## Technology/Framework Used

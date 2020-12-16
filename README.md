@@ -20,4 +20,4 @@ This is a simple physics based platformer game that relies on its core mechanic 
 4. Click the **Add** Button in Unity Hub and locate the local folder containing this repository
 5. Open the project and click the **Play** button in the top-center of the Unity interface
 
-MIT © [Matthew McCracken]()
+MIT © [Matthew McCracken](https://github.com/mdm16c)

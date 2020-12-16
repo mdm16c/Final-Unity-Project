@@ -1,7 +1,7 @@
 # Final-Unity-Project
 Simple game made in Unity where the player controls a ball named Roll-E who must platform and survive its way to the end of all three levels.
 
-## Code style
+## Code Style
 [![js-standard-style](https://img.shields.io/badge/code%20style-standard-brightgreen.svg?style=flat)](https://github.com/feross/standard)
  
 ## Trailer
